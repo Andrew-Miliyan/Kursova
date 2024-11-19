@@ -8,7 +8,7 @@ import * as path from 'path'
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-const DB_URL="mongodb://localhost:27017"///  /milian
+const DB_URL="mongodb+srv://andrymilanqwas20003:0vBiSmd4vD05zYK5@cluster0.xhrqk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"///  /milian
 const PORT = 5000;
 
 const app = express()
